@@ -1,3 +1,4 @@
 version: 2
 jobs:
-  shell: echo hallo
+  -run:
+    command: | echo hallo
